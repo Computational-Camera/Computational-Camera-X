@@ -12,7 +12,6 @@ to rapidly evaluate system performance from different perspectives, our goal is 
 
 ### Sampling Pattern
 One example is shown here is our work is able to test the effects of sampling patterns at the entrance pupil.
-```
 <img src="https://github.com/Computational-Camera/Computational-Camera-X/blob/master/img/spots.jpg" width="500" align="middle">
 
 
