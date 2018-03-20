@@ -21,4 +21,4 @@ Another example is shown here is how we determine the SFR results for both the c
 
 
 <img src="https://github.com/Computational-Camera/Computational-Camera-X/blob/master/img/chart.jpg" width="640" align="middle">
-<img src="https://github.com/Computational-Camera/Computational-Camera-X/blob/master/img/chart.sfr"   width="500" align="middle">
+<img src="https://github.com/Computational-Camera/Computational-Camera-X/blob/master/img/sft.jpg"   width="500" align="middle">
